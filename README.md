@@ -1,16 +1,16 @@
-# Demo Edges
+# Weave
 
-App with some demonstrator code/data for Edges
+Data publication/presentation platform and demo site
 
 ## Installation
 
 Clone the project:
 
-    git clone https://github.com/richard-jones/demo-edges.git
+    git clone https://github.com/CottageLabs/weave.git
 
 get all the submodules
 
-    cd demo-edges
+    cd weave
     git submodule update --init -- recursive
 
 Install esprit and magnificent octopus, and related dependencies
@@ -19,7 +19,7 @@ Install esprit and magnificent octopus, and related dependencies
 
 Create your local config
 
-    cd demo-edges
+    cd weave
     touch local.cfg
 
 Then you can override any config values that you need to
