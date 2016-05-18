@@ -30,6 +30,10 @@ from octopus.lib.webapp import custom_static
 def index():
     return render_template("demo.html")
 
+@app.route("/world")
+def world():
+    return render_template("world.html")
+
 # this allows us to override the standard static file handling with our own dynamic version
 @app.route("/static/<path:filename>")
 def static(filename):
