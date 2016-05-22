@@ -27,13 +27,24 @@ var world = {
                         "Consumption" : 1,
                         "Production" : 2
                     },
+                    superRegions : edges.d3.regions.COUNTRIES_BY_CONTINENT,
                     renderer : edges.d3.newGenericVectorMap({
-                        width : 960,
-                        height : 500,
+                        width : 1100,
+                        height : 700,
                         projectionType : "mercator",
                         geojson : "/static/data/padd/countries.geo.json",
+                        // geojson : "/static/data/canada.json",
+                        // center: {"lat" : 56, "lon" : 106},
                         mapScaleFit : "horizontal",
-                        mapScaleBorder : 0.0
+                        mapScaleBorder : 0.0,
+                        superRegionStyles : {
+                            "Africa" : {"fill" : "#00ff00"},
+                            "Asia" : {"fill" : "#ff0000"},
+                            "Europe" : {"fill" : "#0000ff"},
+                            "North America" : {"fill" : "#999999"},
+                            "Oceana" : {"fill" : "#ff00ff"},
+                            "South America" : {"fill" : "#00ffff"}
+                        }
                     })
                 })
             ]
