@@ -1,0 +1,156 @@
+"PMCID","PMID","DOI","Publisher","Journal title","ISSN","Article title","Publication Date","Electronic Publication Date","Fulltext in EPMC?","XML Fulltext?","Author Manuscript?","Ahead of Print?","Open Access?","Journal Type","Correct Article Confidence","Standard Compliance?","Deluxe Compliance?","Publisher Licence","EPMC Licence","EPMC Licence source","Grant 1","Agency 1","PI 1","Grant 2","Agency 2","PI 2","Grant 3","Agency 3","PI 3","Grant 4","Agency 4","PI 4","Grant 5","Agency 5","PI 5","Grant 6","Agency 6","PI 6","Grant 7","Agency 7","PI 7","Compliance Processing Output"
+"PMC4634196","26629542","10.1016/j.ebiom.2015.08.016","Elsevier BV","EBioMedicine","2352-3964","Malaria and Age Variably but Critically Control Hepcidin Throughout Childhood in Kenya.","2015 Oct","2015-08-08","TRUE","TRUE","FALSE","not applicable","TRUE","oa",1,"TRUE","TRUE","not applicable","cc-by","epmc_xml_permissions","092654","Wellcome Trust","Professor Kevin Marsh","091758","Wellcome Trust","Dr TN WILLIAMS","MC_UU_12010/10","Medical Research Council","Dr AH Drakesmith","MC_U123292699","Medical Research Council","Professor Andrew Prentice","G0901149","Medical Research Council","unknown",,,,,,,"Added PMCID from EUPMC
+Added article title from EUPMC
+Confirmed is in EUPMC
+Confirmed is open access from EUPMC
+Added journal title from EUPMC
+Added eissn from EUPMC
+Added grants data from EUPMC
+Added date of publication from EUPMC
+Added electronic publication date from EUPMC
+Confirmed fulltext XML is available from EUPMC
+Added licence from epmc_xml_permissions
+Added EPMC licence from epmc_xml_permissions
+Added author list from EUPMC
+Checked author manuscript status in EUPMC, found no evidence of being one
+Added publisher name from Crossref
+Added ISSN from Crossref
+Could not find DOI in CORE
+Found Grant PI for 091758 via Grist API
+Found Grant PI for 092654 via Grist API
+Found Grant PI for MC_UU_12010/10 via Grist API
+Found Grant PI for MC_U123292699 via Grist API
+Confirmed journal is listed in DOAJ
+Added embargo and archiving data from Sherpa Romeo"
+"PMC4634199","26629536","10.1016/j.ebiom.2015.08.002","Elsevier BV","EBioMedicine","2352-3964","Compensation in Preclinical Huntington's Disease: Evidence From the Track-On HD Study.","2015 Oct","2015-08-04","TRUE","TRUE","FALSE","not applicable","TRUE","oa",1,"TRUE","TRUE","not applicable","cc-by","epmc_xml_permissions","100227","Wellcome Trust","unknown","091593","Wellcome Trust","Prof RJ Dolan","MR/L012936/1","Medical Research Council","Professor Sarah Tabrizi",,,,,,,,,,,,,"Added PMCID from EUPMC
+Added article title from EUPMC
+Confirmed is in EUPMC
+Confirmed is open access from EUPMC
+Added journal title from EUPMC
+Added eissn from EUPMC
+Added grants data from EUPMC
+Added date of publication from EUPMC
+Added electronic publication date from EUPMC
+Confirmed fulltext XML is available from EUPMC
+Added licence from epmc_xml_permissions
+Added EPMC licence from epmc_xml_permissions
+Added author list from EUPMC
+Checked author manuscript status in EUPMC, found no evidence of being one
+Added publisher name from Crossref
+Added ISSN from Crossref
+Could not find DOI in CORE
+Found Grant PI for 091593 via Grist API
+Found Grant PI for MR/L012936/1 via Grist API
+Confirmed journal is listed in DOAJ
+Added embargo and archiving data from Sherpa Romeo"
+"PMC4564392","26448913","10.1016/j.nicl.2015.07.002","Elsevier BV","NeuroImage. Clinical","2213-1582","Characterising the grey matter correlates of leukoaraiosis in cerebral small vessel disease.","2015","2015-08-13","TRUE","TRUE","FALSE","not applicable","TRUE","oa",1,"TRUE","TRUE","not applicable","cc-by","epmc_xml_permissions","0801589","Wellcome Trust","unknown","NF-SI-0512-10019","Department of Health","unknown",,,,,,,,,,,,,,,,"Added PMCID from EUPMC
+Added article title from EUPMC
+Confirmed is in EUPMC
+Confirmed is open access from EUPMC
+Added journal title from EUPMC
+Added eissn from EUPMC
+Added grants data from EUPMC
+Added date of publication from EUPMC
+Added electronic publication date from EUPMC
+Confirmed fulltext XML is available from EUPMC
+Added licence from epmc_xml_permissions
+Added EPMC licence from epmc_xml_permissions
+Added author list from EUPMC
+Checked author manuscript status in EUPMC, found no evidence of being one
+Added publisher name from Crossref
+Added ISSN from Crossref
+Could not find DOI in CORE
+Confirmed journal is listed in DOAJ
+Added embargo and archiving data from Sherpa Romeo"
+"PMC4556734","26413477","10.1016/j.nicl.2015.07.015","Elsevier BV","NeuroImage. Clinical","2213-1582","Whole-brain functional hypoconnectivity as an endophenotype of autism in adolescents.","2015","2015-08-07","TRUE","TRUE","FALSE","not applicable","TRUE","oa",1,"TRUE","TRUE","not applicable","cc-by","epmc_xml_permissions","093875","Wellcome Trust","Professor Trevor Robbins","G0001354","Medical Research Council","Professor Trevor Robbins","G0001354B","Medical Research Council","unknown","NF-SI-0513-10051","Department of Health","unknown","G1000183","Medical Research Council","Professor Trevor Robbins","G1000183B","Medical Research Council","unknown","G0701919","Medical Research Council","Dr Michael Spencer","Added PMCID from EUPMC
+Added article title from EUPMC
+Confirmed is in EUPMC
+Confirmed is open access from EUPMC
+Added journal title from EUPMC
+Added eissn from EUPMC
+Added grants data from EUPMC
+Added date of publication from EUPMC
+Added electronic publication date from EUPMC
+Confirmed fulltext XML is available from EUPMC
+Added licence from epmc_xml_permissions
+Added EPMC licence from epmc_xml_permissions
+Added author list from EUPMC
+Checked author manuscript status in EUPMC, found no evidence of being one
+Added publisher name from Crossref
+Added ISSN from Crossref
+Could not find DOI in CORE
+Found Grant PI for 093875 via Grist API
+Found Grant PI for G0001354 via Grist API
+Found Grant PI for G1000183 via Grist API
+Found Grant PI for G0701919 via Grist API
+Confirmed journal is listed in DOAJ
+Added embargo and archiving data from Sherpa Romeo"
+"PMC4160115","25115429","10.1097/sla.0000000000000894","Ovid Technologies (Wolters Kluwer Health)","Annals of surgery","0003-4932, 1528-1140","Addressing the appropriateness of elective colon resection for diverticulitis: a report from the SCOAP CERTAIN collaborative.","2014 Sep","Unavailable","TRUE","FALSE","TRUE","not applicable","FALSE","hybrid",1,"FALSE","FALSE","unknown","unknown","unknown","5T32DK070555-04","NIDDK NIH HHS","unknown","T32 DK070555","NIDDK NIH HHS","unknown","HS20025","AHRQ HHS","unknown",,,,,,,,,,,,,"Added PMCID from EUPMC
+Added PMID from EUPMC
+Added DOI from EUPMC
+Added article title from EUPMC
+Confirmed is in EUPMC
+Added journal title from EUPMC
+Added eissn from EUPMC
+Added issn from EUPMC
+Added grants data from EUPMC
+Added date of publication from EUPMC
+Added author list from EUPMC
+Checked author manuscript status in EUPMC, returned Y_IN_EPMC_SPLASHPAGE
+Added publisher name from Crossref
+Could not find DOI in CORE
+Could not find journal in DOAJ
+Added embargo and archiving data from Sherpa Romeo
+Unable to retrieve licence data via article splash page lookup (used to be OAG)"
+"unknown","26655153","10.1086/682069","University of Chicago Press","The American naturalist","0003-0147, 1537-5323","Host Genotype and Coinfection Modify the Relationship of within and between Host Transmission.","2015 Aug","2015-06-04","FALSE","FALSE","not applicable","TRUE","FALSE","hybrid",1,"FALSE","FALSE","unknown","unknown","unknown","095831","Wellcome Trust","Prof Keith Matthews",,,,,,,,,,,,,,,,,,,"Added article title from EUPMC
+Added journal title from EUPMC
+Added eissn from EUPMC
+Added issn from EUPMC
+Added grants data from EUPMC
+Added date of publication from EUPMC
+Added electronic publication date from EUPMC
+Added author list from EUPMC
+Added publisher name from Crossref
+Could not find DOI in CORE
+Found Grant PI for 095831 via Grist API
+Checked ahead of print status on pubmed, date found 2015/06/04 00:00
+Could not find journal in DOAJ
+Added embargo and archiving data from Sherpa Romeo
+Unable to retrieve licence data via article splash page lookup (used to be OAG)"
+"PMC4524711","26241484","10.1371/journal.pntd.0003988","Public Library of Science (PLoS)","PLoS neglected tropical diseases","1935-2727, 1935-2735","Impact of Community Mass Treatment with Azithromycin for Trachoma Elimination on the Prevalence of Yaws.","2015 ","2015-08-04","TRUE","TRUE","FALSE","not applicable","TRUE","oa",1,"TRUE","TRUE","not applicable","cc-zero","epmc_xml_permissions","100714","Wellcome Trust","Prof David Mabey","102807","Wellcome Trust","Dr Michael Marks","098521","Wellcome Trust","Dr Anthony Solomon",,,,,,,,,,,,,"Added PMCID from EUPMC
+Added article title from EUPMC
+Confirmed is in EUPMC
+Confirmed is open access from EUPMC
+Added journal title from EUPMC
+Added eissn from EUPMC
+Added issn from EUPMC
+Added grants data from EUPMC
+Added date of publication from EUPMC
+Added electronic publication date from EUPMC
+Confirmed fulltext XML is available from EUPMC
+Added licence from epmc_xml_permissions
+Added EPMC licence from epmc_xml_permissions
+Added author list from EUPMC
+Checked author manuscript status in EUPMC, found no evidence of being one
+Added publisher name from Crossref
+Could not find DOI in CORE
+Found Grant PI for 098521 via Grist API
+Found Grant PI for 102807 via Grist API
+Found Grant PI for 100714 via Grist API
+Confirmed journal is listed in DOAJ
+Added embargo and archiving data from Sherpa Romeo"
+"unknown","26179026","10.1111/joa.12334","Wiley-Blackwell","Journal of anatomy","0021-8782, 1469-7580","Some reminiscences on studies of age-dependent and activity-dependent degeneration of sensory and motor endings in mammalian skeletal muscle.","2015 Aug","Unavailable","FALSE","FALSE","not applicable","FALSE","FALSE","hybrid",1,"FALSE","FALSE","cc-by","unknown","unknown","unknown","Wellcome Trust","unknown","unknown","Medical Research Council","unknown",,,,,,,,,,,,,,,,"Added article title from EUPMC
+Added journal title from EUPMC
+Added eissn from EUPMC
+Added issn from EUPMC
+Added grants data from EUPMC
+Added date of publication from EUPMC
+Added author list from EUPMC
+Added publisher name from Crossref
+Could not find DOI in CORE
+Tried but failed to find Grant PI via Grist API
+Tried but failed to find Grant PI via Grist API
+Checked ahead of print status on pubmed, no date found
+Could not find journal in DOAJ
+Added embargo and archiving data from Sherpa Romeo
+Added licence data via article publisher splash page lookup to http://doi.wiley.com/10.1111/joa.12334 (used to be OAG)"

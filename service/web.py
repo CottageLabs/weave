@@ -34,6 +34,10 @@ def index():
 def world():
     return render_template("world.html")
 
+@app.route("/statics")
+def example():
+    return render_template("statics.html")
+
 # this allows us to override the standard static file handling with our own dynamic version
 @app.route("/static/<path:filename>")
 def static(filename):

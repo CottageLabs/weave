@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+
+
+    <!-- jquery ui -->
+    <link rel="stylesheet" href="/static/vendor/edges_build/vendor/jquery-ui-1.11.1/jquery-ui.css">
+
+    <!-- select2 -->
+    <link rel="stylesheet" type="text/css" href="/static/vendor/edges_build/vendor/select2-3.5.1/select2.css">
+
+    <!-- bootstrap styles -->
+    <link rel="stylesheet" href="/static/vendor/edges_build/vendor/bootstrap-3.3.1/css/bootstrap.min.css">
+
+    <!-- nvd3 styles -->
+    <link rel="stylesheet" href="/static/vendor/edges_build/vendor/nvd3-1.8.1/nv.d3.css">
+
+
+    <!-- edges styles -->
+    <link rel="stylesheet" href="/static/vendor/edges_build/css/bs3.Facetview.css">
+    <link rel="stylesheet" href="/static/vendor/edges_build/css/bs3.Tabbed.css">
+
+    <link rel="stylesheet" href="/static/vendor/edges_build/css/bs3.BasicRangeSelectorRenderer.css">
+    <link rel="stylesheet" href="/static/vendor/edges_build/css/bs3.FacetFilterSetterRenderer.css">
+    <link rel="stylesheet" href="/static/vendor/edges_build/css/bs3.MultiDateRangeRenderer.css">
+    <link rel="stylesheet" href="/static/vendor/edges_build/css/bs3.NumericRangeEntryRenderer.css">
+    <link rel="stylesheet" href="/static/vendor/edges_build/css/bs3.ORTermSelectorRenderer.css">
+    <link rel="stylesheet" href="/static/vendor/edges_build/css/bs3.PagerRenderer.css">
+    <link rel="stylesheet" href="/static/vendor/edges_build/css/bs3.RefiningANDTermSelectorRenderer.css">
+    <link rel="stylesheet" href="/static/vendor/edges_build/css/bs3.ResultsDisplayRenderer.css">
+    <link rel="stylesheet" href="/static/vendor/edges_build/css/bs3.SearchingNotificationRenderer.css">
+    <link rel="stylesheet" href="/static/vendor/edges_build/css/bs3.SelectedFiltersRenderer.css">
+
+    <link rel="stylesheet" href="/static/vendor/edges_build/css/d3.edges.css">
+
+    <!-- <link rel="stylesheet" href="../css/google.edges.css"> -->
+
+    <title>Statics</title>
+</head>
+<body>
+
+<div class="container"><div class="content">
+    <div id="statics"><div id="dataselector"></div><div id="datagrid"></div></div>
+</div></div>
+
+<!-- jquery -->
+<script type="text/javascript" src="/static/vendor/edges_build/vendor/jquery-1.11.1/jquery-1.11.1.js"></script>
+
+<!-- get the octopus js (must be done first) -->
+<script type="text/javascript" src="{{url_for('static', filename='js/octopus.js')}}"></script>
+
+<!-- get the application config -->
+<script type="text/javascript" src="{{url_for('configjs.javascript_config')}}"></script>
+
+<script type="text/javascript" src="/static/vendor/edges_build/vendor/jquery-ui-1.11.1/jquery-ui.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/vendor/select2-3.5.1/select2.min.js"></script>
+
+<script type="text/javascript" src="/static/vendor/edges_build/vendor/d3-3.5.17/d3.min.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/vendor/nvd3-1.8.1/nv.d3.js"></script>
+
+<script type="text/javascript" src="/static/vendor/edges_build/vendor/PapaParse-4.1.2/papaparse.min.js"></script>
+
+<!-- google map include -->
+<!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAHSLLjD8UtfNlczVJluIxzTOPGFOLStyQ"></script> -->
+
+<script type="text/javascript" src="/static/vendor/edges_build/src/es.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/edges.jquery.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/edges.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/edges.csv.js"></script>
+
+<script type="text/javascript" src="/static/vendor/edges_build/src/components/charts.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/components/maps.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/components/ranges.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/components/search.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/components/selectors.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/components/tables.js"></script>
+
+<!-- <script type="text/javascript" src="../src/renderers/bs3.edges.js"></script> -->
+
+<script type="text/javascript" src="/static/vendor/edges_build/src/templates/bs3.Facetview.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/templates/bs3.Tabbed.js"></script>
+
+<script type="text/javascript" src="/static/vendor/edges_build/src/renderers/bs3.BasicRangeSelectorRenderer.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/renderers/bs3.FacetFilterSetterRenderer.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/renderers/bs3.SelectedFiltersRenderer.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/renderers/bs3.MultiDateRangeRenderer.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/renderers/bs3.NumericRangeEntryRenderer.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/renderers/bs3.ORTermSelectorRenderer.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/renderers/bs3.PagerRenderer.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/renderers/bs3.RefiningANDTermSelectorRenderer.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/renderers/bs3.ResultsDisplayRenderer.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/renderers/bs3.SearchingNotificationRenderer.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/renderers/bs3.SelectedFiltersRenderer.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/renderers/bs3.TabularResultsRenderer.js"></script>
+
+<script type="text/javascript" src="/static/vendor/edges_build/src/renderers/d3.edges.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/renderers/google.edges.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/renderers/highcharts.edges.js"></script>
+<script type="text/javascript" src="/static/vendor/edges_build/src/renderers/nvd3.edges.js"></script>
+
+<script type="text/javascript" src="/static/js/statics.js"></script>
+
+</body>
+</html>
