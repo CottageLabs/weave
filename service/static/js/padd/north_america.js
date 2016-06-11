@@ -1,41 +1,18 @@
-var world = {
+var na = {
     activeEdge : false,
 
     create : function() {
 
         var e = edges.newEdge({
             selector: "#world",
-            template: world.newTemplate(),
-            search_url: octopus.config.search_base_url + "constituencies/_search", // FIXME: we're actually not going to need to do any queries for this one
-            baseQuery : es.newQuery({
-                size: 0
-            }),
+            template: na.newTemplate(),
+            staticFiles : [
+                {"id" : "consumption", "url" : "/static/data/acuity/consumption.csv", "processor" : edges.csv.newObjectByRow, "datatype" : "text"},
+                {"id" : "production", "url" : "/static/data/acuity/production.csv", "processor" : edges.csv.newObjectByRow, "datatype" : "text"}
+            ],
             components : [
                 edges.newRegionDataMap({
-                    id: "world-map",
-                    regionData : {
-                        AFG : {
-                            "Consumption" : 1000,
-                            "Production" : 2000
-                        },
-                        AUS : {
-                            "Consumption" : 3000,
-                            "Production" : 4000
-                        },
-                        Canada : {
-                            "Consumption" : 3000,
-                            "Production" : 4000
-                        },
-                        "United States of America":{
-                            "Consumption" : 3000,
-                            "Production" : 4000
-                        }
-                    },
-                    defaultRegionData : {
-                        "Consumption" : 1,
-                        "Production" : 2
-                    },
-                    superRegions : edges.d3.regions.COUNTRIES_BY_CONTINENT,
+                    id: "na-map",
                     renderer : edges.d3.newGenericVectorMap({
                         width : 1100,
                         height : 700,
@@ -45,32 +22,33 @@ var world = {
                         rotate: {"lambda": 150, "phi": 0},
                         mapScaleFit : "best",
                         mapScaleBorder : -3.0,
-                        dataOnRender: true,
-                        superRegionStyles : {
-                            "Africa" : {"fill" : "#00ff00"},
-                            "Asia" : {"fill" : "#ff0000"},
-                            "Europe" : {"fill" : "#0000ff"},
-                            "North America" : {"fill" : "#999999"},
-                            "Oceana" : {"fill" : "#ff00ff"},
-                            "South America" : {"fill" : "#00ffff"}
-                        }
+                        preDisplayToolTips : ["CAN", "USA"],
+                        toolTipOffsets : {
+                            "USA" : {left: -100, top: 120},
+                            "CAN" : {left: -50, top: 100}
+                        },
+                        regionStyles : {
+                            "CAN" : {"stroke" : "#ffffff", "stroke-width" : 1, "fill" : "#FF0000"},
+                            "USA" : {"stroke" : "#ffffff", "stroke-width" : 1, "fill" : "#0000FF"}
+                        },
+                        enableTooltipInteractions: false
                     })
                 })
             ]
         });
 
-        world.activeEdge = e;
+        na.activeEdge = e;
     },
 
     newTemplate : function(params) {
         if (!params) { params = {} }
-        world.Template.prototype = edges.newTemplate(params);
-        return new world.Template(params);
+        na.Template.prototype = edges.newTemplate(params);
+        return new na.Template(params);
     },
     Template : function(params) {
-        var id = edges.getParam(params.id, "world-map");
+        var id = edges.getParam(params.id, "na-map");
 
-        this.namespace = "world-template";
+        this.namespace = "na-template";
 
         this.draw = function(edge) {
             this.edge = edge;
@@ -88,5 +66,5 @@ var world = {
 
 
 jQuery(document).ready(function($) {
-    world.create();
+    na.create();
 });
