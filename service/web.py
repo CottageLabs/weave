@@ -38,9 +38,9 @@ def world():
 def example():
     return render_template("statics.html")
 
-@app.route("/north_america")
-def north_america():
-    return render_template("north_america.html")
+@app.route("/acuity")
+def acuity():
+    return render_template("acuity.html")
 
 # this allows us to override the standard static file handling with our own dynamic version
 @app.route("/static/<path:filename>")

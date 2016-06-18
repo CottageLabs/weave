@@ -193,7 +193,7 @@ var na = {
         delete padds["PADD 5"];
 
         var e = edges.newEdge({
-            selector: "#world",
+            selector: "#acuity",
             template: na.newTemplate(),
             staticFiles : [
                 {id : "consumption", url : "/static/data/acuity/consumption.csv", processor : edges.csv.newObjectByRow, datatype : "text", opening: na.preFilterCSVs},
