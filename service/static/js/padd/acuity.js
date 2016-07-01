@@ -1,9 +1,17 @@
 var na = {
     activeEdge : false,
 
+    num : edges.numFormat({
+        thousandsSeparator: ","
+    }),
+
     COUNTRY_ID_MAP : {
         "US" : "USA",
         "Canada" : "CAN"
+    },
+
+    COUNTRY_DISPLAY_MAP : {
+        "United States of America" : "US"
     },
 
     preFilterCSVs : function(params) {
@@ -82,7 +90,7 @@ var na = {
             var pt = prod_totals[id];
             if (pt) {
                 var bal = pt - ct;
-                component.regionData[id]["Balance"] = bal;
+                component.regionData[id]["Balance"] = na.num(bal);
             }
         }
     },
@@ -156,7 +164,7 @@ var na = {
             var pt = prod_totals[id];
             if (pt) {
                 var bal = pt - ct;
-                component.regionData[id]["Balance"] = bal;
+                component.regionData[id]["Balance"] = na.num(bal);
             }
         }
     },
@@ -173,12 +181,15 @@ var na = {
         if (superRegionId) {
             title = superRegionId;
         }
+        if (na.COUNTRY_DISPLAY_MAP[title]) {
+            title = na.COUNTRY_DISPLAY_MAP[title];
+        }
         var frag = '<h4>'+ title + '</h4>';
 
         frag += "<table class='tooltip-table'><tbody>";
         for (var field in regionData) {
             var val = regionData[field];
-            frag += "<tr><td>" + edges.escapeHtml(field) + "</td><td>" + edges.escapeHtml(val) + "</td></tr>";
+            frag += "<tr><td class='table-label'>" + edges.escapeHtml(field) + "</td><td class='table-value'>" + edges.escapeHtml(val) + "</td></tr>";
         }
         frag += "</tbody></table>";
 
