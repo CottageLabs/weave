@@ -97,7 +97,7 @@ cp $EDGES_VEND/PapaParse-4.1.2/papaparse.min.js $DEPLOY
 
 echo "Build $(date -u +"%Y-%m-%dT%H:%M:%SZ")" > $OUT/build.txt
 
-rm $DEV
+rm -r $DEV
 mkdir $DEV
 cp $DEPLOY/* $DEV
 
