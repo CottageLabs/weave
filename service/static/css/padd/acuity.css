@@ -1,0 +1,41 @@
+.edges-d3-generic-vector-map-container path:hover {
+    fill-opacity: 0.7 !important;
+}
+
+.edges-d3-generic-vector-map-tooltip {
+    position: absolute;
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+    font: 12px sans-serif;
+    background: white;
+    border: 1px solid #cccccc;
+    pointer-events: none;
+    border-radius: 0px;
+}
+
+.edges-d3-generic-vector-map-pinned {
+    fill-opacity: 0.5 !important;
+}
+
+.edges-d3-generic-vector-map-pinned-na-map {
+    fill-opacity: 1.0 !important;
+}
+
+.tooltip-table {
+    width: 100%;
+}
+
+.tooltip-table td {
+    padding-bottom: 4px;
+}
+
+.tooltip-table .table-label {
+    text-align: left;
+    padding-right: 4px
+}
+
+.tooltip-table .table-value {
+    text-align: right;
+    padding-left: 4px
+}

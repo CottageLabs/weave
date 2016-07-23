@@ -1,0 +1,109 @@
+
+.edges-d3-grouped-us-states-map path:hover {
+    fill-opacity: .7;
+}
+.edges-d3-grouped-us-states-tooltip {
+    position: absolute;
+    text-align: center;
+    margin: 10px;
+    font: 12px sans-serif;
+    pointer-events: none;
+    background:rgba(0,0,0,0.9);
+    border:1px solid grey;
+    width:auto;
+    padding:4px;
+    color:white;
+    opacity:0;
+}
+.edges-d3-grouped-us-states-tooltip h4 {
+    font-size: 14px;
+    font-weight: 600;
+}
+.edges-d3-grouped-us-states-legend {
+    font: 11px sans-serif;
+    position:absolute;
+    left:800px;
+    top:350px;
+}
+.edges-d3-generic-vector-map-container path:hover {
+    fill-opacity: .7 !important;
+}
+.edges-d3-generic-vector-map-tooltip {
+    position: absolute;
+    text-align: center;
+    width: 200px;
+    
+    padding: 4px;
+    font: 12px sans-serif;
+    background: white;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+.edges-d3-generic-vector-map-pinned {
+    fill-opacity: .5 !important;
+}
+
+
+.edges-bs3-n-separate-or-term-selector-container {
+}
+.edges-bs3-n-separate-or-term-selector-select {
+}
+.edges-bs3-n-separate-or-term-selector-label {
+    padding: 5px;
+}
+.edges-bs3-n-separate-or-term-selector-container .select2-arrow {
+    border-left: 0px !important;
+    background: #ffffff !important;
+    top: 8px !important;
+}
+.edges-bs3-n-separate-or-term-selector-container .select2-chosen {
+    width: 200px !important;
+    line-height: 45px;
+}
+.edges-bs3-n-separate-or-term-selector-container .select2-choice {
+    height: 45px;
+    background-image: none;
+    background: #ffffff;
+}
+.edges-bs3-n-separate-or-term-selector-container .select2-dropdown-open {
+    border-color: #2C3E50 !important;
+}
+.select2-drop-active {
+    border-color: #2C3E50 !important;
+    padding-top: 4px !important;
+}
+.edges-d3-generic-vector-map-container path:hover {
+    fill-opacity: 0.7 !important;
+}
+.edges-d3-generic-vector-map-tooltip {
+    position: absolute;
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+    font: 12px sans-serif;
+    background: white;
+    border: 1px solid #cccccc;
+    pointer-events: none;
+    border-radius: 0px;
+}
+.edges-d3-generic-vector-map-pinned {
+    fill-opacity: 0.5 !important;
+}
+.edges-d3-generic-vector-map-pinned-na-map {
+    fill-opacity: 1.0 !important;
+}
+.tooltip-table {
+    width: 100%;
+}
+.tooltip-table td {
+    padding-bottom: 4px;
+}
+.tooltip-table .table-label {
+    text-align: left;
+    padding-right: 4px
+}
+.tooltip-table .table-value {
+    text-align: right;
+    padding-left: 4px
+}

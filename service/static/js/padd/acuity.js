@@ -196,7 +196,12 @@ var na = {
         return frag;
     },
 
-    create : function() {
+    create : function(params) {
+
+        var prod = params.production;
+        var con = params.consumption;
+        var countries = params.countries;
+        var states = params.states;
 
         var padds = edges.d3.regions.PADDS;
         padds["PADD 4 & 5"] = padds["PADD 4"].concat(padds["PADD 5"]);
@@ -207,8 +212,8 @@ var na = {
             selector: "#acuity",
             template: na.newTemplate(),
             staticFiles : [
-                {id : "consumption", url : "/static/data/acuity/consumption.csv", processor : edges.csv.newObjectByRow, datatype : "text", opening: na.preFilterCSVs},
-                {id : "production", url : "/static/data/acuity/production.csv", processor : edges.csv.newObjectByRow, datatype : "text", opening: na.preFilterCSVs}
+                {id : "consumption", url : con, processor : edges.csv.newObjectByRow, datatype : "text", opening: na.preFilterCSVs},
+                {id : "production", url : prod, processor : edges.csv.newObjectByRow, datatype : "text", opening: na.preFilterCSVs}
             ],
             components : [
                 edges.newStaticDataSelector({
@@ -231,7 +236,7 @@ var na = {
                         width : 1100,
                         height : 700,
                         projectionType : "mercator",
-                        geojson : "/static/data/padd/countries.geo.json",
+                        geojson : countries,
                         center: {"lat" : 55, "lon" : 40},
                         rotate: {"lambda": 150, "phi": 0},
                         mapScaleFit : "best",
@@ -258,7 +263,7 @@ var na = {
                         width : 1100,
                         height : 700,
                         projectionType : "albersUsa",
-                        geojson : "/static/data/padd/us-states.json",
+                        geojson : states,
                         mapScaleFit : "best",
                         mapScaleBorder : 0,
                         superRegionStyles : {
@@ -301,8 +306,3 @@ var na = {
         }
     }
 };
-
-
-jQuery(document).ready(function($) {
-    na.create();
-});

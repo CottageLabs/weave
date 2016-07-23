@@ -1,0 +1,27 @@
+Area,Country,Region,From,To,Consumption type,Value
+,US,,2014,,Total ,"10,100"
+,US,,2015,,Total ,"9,200"
+,US,,2016,,Total ,"9,200"
+,US,,2017,,Total ,"9,200"
+,US,,2018,,Total ,"9,200"
+,US,,2019,,Total ,"9,200"
+,US,,2020,,Total ,"9,200"
+,,,,,,
+,Canada,,2014,,Total ,725
+,Canada,,2015,,Total ,725
+,Canada,,2016,,Total ,725
+,Canada,,2017,,Total ,700
+,Canada,,2018,,Total ,700
+,Canada,,2019,,Total ,700
+,Canada,,2020,,Total ,700
+,,,,,,
+PADD 1,US,North America,2014,,Total,"6,500"
+PADD 2,US,North America,2014,,Total,200
+PADD 3,US,North America,2014,,Total,"2,300"
+PADD 4 & 5,US,North America,2014,,Total,"1,100"
+US,US,North America,2014,,Total,"10,100"
+PADD 1,US,North America,2015,,Total,
+PADD 2,US,North America,2015,,Total,
+PADD 3,US,North America,2015,,Total,
+PADD 4 & 5,US,North America,2015,,Total,
+US,US,North America,2015,,Total,

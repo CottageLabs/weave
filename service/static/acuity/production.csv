@@ -1,0 +1,561 @@
+Area,Country,Region,From,To,Production source,Value
+,US,,2015,,Oil,"7,800"
+,US,,2015,,Gas,"1,000"
+,US,,2015,,Total,"9,800"
+,US,,2016,,Oil,"7,900"
+,US,,2016,,Gas,"1,000"
+,US,,2016,,Total,"8,900"
+,US,,2017,,Oil,"8,000"
+,US,,2017,,Gas,"1,000"
+,US,,2017,,Total,"9,000"
+,US,,2018,,Oil,"8,000"
+,US,,2018,,Gas ,"1,000"
+,US,,2018,,Total,"9,000"
+,US,,2019,,Oil,"8,000"
+,US,,2019,,Gas,"1,000"
+,US,,2019,,Total,"9,000"
+,US,,2020,,Oil,"8,000"
+,US,,2020,,Gas,"1,000"
+,US,,2020,,Total,"9,000"
+,Canada,,2015,,Oil ,575
+,Canada,,2015,,Oil sands,"2,100"
+,Canada,,2015,,Gas,"2,600"
+,Canada,,2015,,Total,"5,275"
+,Canada,,2016,,Oil ,575
+,Canada,,2016,,Oil sands,"2,100"
+,Canada,,2016,,Gas,"2,500"
+,Canada,,2016,,Total,"5,175"
+,Canada,,2017,,Oil ,575
+,Canada,,2017,,Oil sands,"2,300"
+,Canada,,2017,,Gas,"2,400"
+,Canada,,2017,,Total,"5,275"
+,Canada,,2018,,Oil ,575
+,Canada,,2018,,Oil sands,"2,400"
+,Canada,,2018,,Gas,"2,300"
+,Canada,,2018,,Total,"5,275"
+,Canada,,2019,,Oil ,575
+,Canada,,2019,,Oil sands,"2,400"
+,Canada,,2019,,Gas,"2,200"
+,Canada,,2019,,Total,"5,175"
+,Canada,,2020,,Oil ,575
+,Canada,,2020,,Oil sands,"2,400"
+,Canada,,2020,,Gas,"2,100"
+,Canada,,2020,,Total,"5,075"
+,,,,,,
+PADD 1,US,North America,2014-1-1,2014-1-31,Oil,16
+PADD 1,US,North America,2014-1-1,2014-1-31,Gas ,1
+PADD 1,US,North America,2014-1-1,2014-1-31,Total,17
+PADD 1,US,North America,2014-2-1,2014-2-28,Oil,17
+PADD 1,US,North America,2014-2-1,2014-2-28,Gas ,1
+PADD 1,US,North America,2014-2-1,2014-2-28,Total,18
+PADD 1,US,North America,2014-3-1,2014-3-31,Oil,18
+PADD 1,US,North America,2014-3-1,2014-3-31,Gas ,1
+PADD 1,US,North America,2014-3-1,2014-3-31,Total,19
+PADD 1,US,North America,2014-4-1,2014-4-30,Oil,17
+PADD 1,US,North America,2014-4-1,2014-4-30,Gas ,1
+PADD 1,US,North America,2014-4-1,2014-4-30,Total,18
+PADD 1,US,North America,2014-5-1,2014-5-31,Oil,18
+PADD 1,US,North America,2014-5-1,2014-5-31,Gas ,1
+PADD 1,US,North America,2014-5-1,2014-5-31,Total,19
+PADD 1,US,North America,2014-6-1,2014-6-30,Oil,17
+PADD 1,US,North America,2014-6-1,2014-6-30,Gas ,1
+PADD 1,US,North America,2014-6-1,2014-6-30,Total,18
+PADD 1,US,North America,2014-7-1,2014-7-31,Oil,18
+PADD 1,US,North America,2014-7-1,2014-7-31,Gas ,1
+PADD 1,US,North America,2014-7-1,2014-7-31,Total,19
+PADD 1,US,North America,2014-8-1,2014-8-31,Oil,20
+PADD 1,US,North America,2014-8-1,2014-8-31,Gas ,1
+PADD 1,US,North America,2014-8-1,2014-8-31,Total,21
+PADD 1,US,North America,2014-9-1,2014-9-30,Oil,19
+PADD 1,US,North America,2014-9-1,2014-9-30,Gas ,1
+PADD 1,US,North America,2014-9-1,2014-9-30,Total,20
+PADD 1,US,North America,2014-10-1,2014-10-31,Oil,19
+PADD 1,US,North America,2014-10-1,2014-10-31,Gas ,1
+PADD 1,US,North America,2014-10-1,2014-10-31,Total,20
+PADD 1,US,North America,2014-11-1,2014-11-30,Oil,19
+PADD 1,US,North America,2014-11-1,2014-11-30,Gas ,1
+PADD 1,US,North America,2014-11-1,2014-11-30,Total,20
+PADD 1,US,North America,2014-12-1,2014-12-31,Oil,21
+PADD 1,US,North America,2014-12-1,2014-12-31,Gas ,1
+PADD 1,US,North America,2014-12-1,2014-12-31,Total,22
+PADD 1,US,North America,2014,,Oil,219
+PADD 1,US,North America,2014,,Gas ,12
+PADD 1,US,North America,2014,,Total,231
+PADD 1,US,North America,2015-1-1,2015-1-31,Oil,17
+PADD 1,US,North America,2015-1-1,2015-1-31,Gas ,1
+PADD 1,US,North America,2015-1-1,2015-1-31,Total,18
+PADD 1,US,North America,2015-2-1,2015-2-28,Oil,15
+PADD 1,US,North America,2015-2-1,2015-2-28,Gas ,1
+PADD 1,US,North America,2015-2-1,2015-2-28,Total,16
+PADD 1,US,North America,2015-3-1,2015-3-31,Oil,14
+PADD 1,US,North America,2015-3-1,2015-3-31,Gas ,1
+PADD 1,US,North America,2015-3-1,2015-3-31,Total,15
+PADD 1,US,North America,2015-4-1,2015-4-30,Oil,18
+PADD 1,US,North America,2015-4-1,2015-4-30,Gas ,1
+PADD 1,US,North America,2015-4-1,2015-4-30,Total,19
+PADD 1,US,North America,2015-5-1,2015-5-31,Oil,18
+PADD 1,US,North America,2015-5-1,2015-5-31,Gas ,1
+PADD 1,US,North America,2015-5-1,2015-5-31,Total,19
+PADD 1,US,North America,2015-6-1,2015-6-30,Oil,15
+PADD 1,US,North America,2015-6-1,2015-6-30,Gas ,1
+PADD 1,US,North America,2015-6-1,2015-6-30,Total,16
+PADD 1,US,North America,2015-7-1,2015-7-31,Oil,15
+PADD 1,US,North America,2015-7-1,2015-7-31,Gas ,1
+PADD 1,US,North America,2015-7-1,2015-7-31,Total,16
+PADD 1,US,North America,2015-8-1,2015-8-31,Oil,15
+PADD 1,US,North America,2015-8-1,2015-8-31,Gas ,1
+PADD 1,US,North America,2015-8-1,2015-8-31,Total,16
+PADD 1,US,North America,2015-9-1,2015-9-30,Oil,11
+PADD 1,US,North America,2015-9-1,2015-9-30,Gas ,1
+PADD 1,US,North America,2015-9-1,2015-9-30,Total,12
+PADD 1,US,North America,2015-10-1,2015-10-31,Oil,11
+PADD 1,US,North America,2015-10-1,2015-10-31,Gas ,1
+PADD 1,US,North America,2015-10-1,2015-10-31,Total,12
+PADD 1,US,North America,2015-11-1,2015-11-30,Oil,17
+PADD 1,US,North America,2015-11-1,2015-11-30,Gas ,1
+PADD 1,US,North America,2015-11-1,2015-11-30,Total,18
+PADD 1,US,North America,2015-12-1,2015-12-31,Oil,17
+PADD 1,US,North America,2015-12-1,2015-12-31,Gas ,1
+PADD 1,US,North America,2015-12-1,2015-12-31,Total,18
+PADD 1,US,North America,2015,,Oil,183
+PADD 1,US,North America,2015,,Gas ,12
+PADD 1,US,North America,2015,,Total,195
+PADD 1,US,North America,2016-1-1,2016-1-31,Oil,16
+PADD 1,US,North America,2016-1-1,2016-1-31,Gas ,1
+PADD 1,US,North America,2016-1-1,2016-1-31,Total,17
+PADD 1,US,North America,2016-2-1,2016-2-29,Oil,11
+PADD 1,US,North America,2016-2-1,2016-2-29,Gas ,1
+PADD 1,US,North America,2016-2-1,2016-2-29,Total,12
+PADD 1,US,North America,2016-3-1,2016-3-31,Oil,9
+PADD 1,US,North America,2016-3-1,2016-3-31,Gas ,1
+PADD 1,US,North America,2016-3-1,2016-3-31,Total,10
+PADD 2,US,North America,2014-1-1,2014-1-31,Oil,95
+PADD 2,US,North America,2014-1-1,2014-1-31,Gas ,0
+PADD 2,US,North America,2014-1-1,2014-1-31,Total,95
+PADD 2,US,North America,2014-2-1,2014-2-28,Oil,88
+PADD 2,US,North America,2014-2-1,2014-2-28,Gas ,0
+PADD 2,US,North America,2014-2-1,2014-2-28,Total,88
+PADD 2,US,North America,2014-3-1,2014-3-31,Oil,102
+PADD 2,US,North America,2014-3-1,2014-3-31,Gas ,0
+PADD 2,US,North America,2014-3-1,2014-3-31,Total,102
+PADD 2,US,North America,2014-4-1,2014-4-30,Oil,100
+PADD 2,US,North America,2014-4-1,2014-4-30,Gas ,1
+PADD 2,US,North America,2014-4-1,2014-4-30,Total,101
+PADD 2,US,North America,2014-5-1,2014-5-31,Oil,108
+PADD 2,US,North America,2014-5-1,2014-5-31,Gas ,1
+PADD 2,US,North America,2014-5-1,2014-5-31,Total,109
+PADD 2,US,North America,2014-6-1,2014-6-30,Oil,117
+PADD 2,US,North America,2014-6-1,2014-6-30,Gas ,1
+PADD 2,US,North America,2014-6-1,2014-6-30,Total,118
+PADD 2,US,North America,2014-7-1,2014-7-31,Oil,119
+PADD 2,US,North America,2014-7-1,2014-7-31,Gas ,1
+PADD 2,US,North America,2014-7-1,2014-7-31,Total,120
+PADD 2,US,North America,2014-8-1,2014-8-31,Oil,111
+PADD 2,US,North America,2014-8-1,2014-8-31,Gas ,1
+PADD 2,US,North America,2014-8-1,2014-8-31,Total,112
+PADD 2,US,North America,2014-9-1,2014-9-30,Oil,107
+PADD 2,US,North America,2014-9-1,2014-9-30,Gas ,1
+PADD 2,US,North America,2014-9-1,2014-9-30,Total,108
+PADD 2,US,North America,2014-10-1,2014-10-31,Oil,100
+PADD 2,US,North America,2014-10-1,2014-10-31,Gas ,1
+PADD 2,US,North America,2014-10-1,2014-10-31,Total,101
+PADD 2,US,North America,2014-11-1,2014-11-30,Oil,105
+PADD 2,US,North America,2014-11-1,2014-11-30,Gas ,1
+PADD 2,US,North America,2014-11-1,2014-11-30,Total,106
+PADD 2,US,North America,2014-12-1,2014-12-31,Oil,124
+PADD 2,US,North America,2014-12-1,2014-12-31,Gas ,1
+PADD 2,US,North America,2014-12-1,2014-12-31,Total,125
+PADD 2,US,North America,2014,,Oil,"1,276"
+PADD 2,US,North America,2014,,Gas ,9
+PADD 2,US,North America,2014,,Total,"1,285"
+PADD 2,US,North America,2015-1-1,2015-1-31,Oil,108
+PADD 2,US,North America,2015-1-1,2015-1-31,Gas ,1
+PADD 2,US,North America,2015-1-1,2015-1-31,Total,109
+PADD 2,US,North America,2015-2-1,2015-2-28,Oil,103
+PADD 2,US,North America,2015-2-1,2015-2-28,Gas ,1
+PADD 2,US,North America,2015-2-1,2015-2-28,Total,104
+PADD 2,US,North America,2015-3-1,2015-3-31,Oil,104
+PADD 2,US,North America,2015-3-1,2015-3-31,Gas ,1
+PADD 2,US,North America,2015-3-1,2015-3-31,Total,105
+PADD 2,US,North America,2015-4-1,2015-4-30,Oil,112
+PADD 2,US,North America,2015-4-1,2015-4-30,Gas ,1
+PADD 2,US,North America,2015-4-1,2015-4-30,Total,113
+PADD 2,US,North America,2015-5-1,2015-5-31,Oil,115
+PADD 2,US,North America,2015-5-1,2015-5-31,Gas ,1
+PADD 2,US,North America,2015-5-1,2015-5-31,Total,116
+PADD 2,US,North America,2015-6-1,2015-6-30,Oil,113
+PADD 2,US,North America,2015-6-1,2015-6-30,Gas ,1
+PADD 2,US,North America,2015-6-1,2015-6-30,Total,114
+PADD 2,US,North America,2015-7-1,2015-7-31,Oil,120
+PADD 2,US,North America,2015-7-1,2015-7-31,Gas ,1
+PADD 2,US,North America,2015-7-1,2015-7-31,Total,121
+PADD 2,US,North America,2015-8-1,2015-8-31,Oil,108
+PADD 2,US,North America,2015-8-1,2015-8-31,Gas ,1
+PADD 2,US,North America,2015-8-1,2015-8-31,Total,109
+PADD 2,US,North America,2015-9-1,2015-9-30,Oil,108
+PADD 2,US,North America,2015-9-1,2015-9-30,Gas ,1
+PADD 2,US,North America,2015-9-1,2015-9-30,Total,109
+PADD 2,US,North America,2015-10-1,2015-10-31,Oil,92
+PADD 2,US,North America,2015-10-1,2015-10-31,Gas ,1
+PADD 2,US,North America,2015-10-1,2015-10-31,Total,93
+PADD 2,US,North America,2015-11-1,2015-11-30,Oil,112
+PADD 2,US,North America,2015-11-1,2015-11-30,Gas ,1
+PADD 2,US,North America,2015-11-1,2015-11-30,Total,113
+PADD 2,US,North America,2015-12-1,2015-12-31,Oil,120
+PADD 2,US,North America,2015-12-1,2015-12-31,Gas ,1
+PADD 2,US,North America,2015-12-1,2015-12-31,Total,121
+PADD 2,US,North America,2015,,Oil,"1,315"
+PADD 2,US,North America,2015,,Gas ,12
+PADD 2,US,North America,2015,,Total,"1,327"
+PADD 2,US,North America,2016-1-1,2016-1-31,Oil,130
+PADD 2,US,North America,2016-1-1,2016-1-31,Gas ,1
+PADD 2,US,North America,2016-1-1,2016-1-31,Total,131
+PADD 2,US,North America,2016-2-1,2016-2-29,Oil,121
+PADD 2,US,North America,2016-2-1,2016-2-29,Gas ,1
+PADD 2,US,North America,2016-2-1,2016-2-29,Total,122
+PADD 2,US,North America,2016-3-1,2016-3-31,Oil,116
+PADD 2,US,North America,2016-3-1,2016-3-31,Gas ,1
+PADD 2,US,North America,2016-3-1,2016-3-31,Total,117
+PADD 3,US,North America,2014-1-1,2014-1-31,Oil,446
+PADD 3,US,North America,2014-1-1,2014-1-31,Gas ,34
+PADD 3,US,North America,2014-1-1,2014-1-31,Total,480
+PADD 3,US,North America,2014-2-1,2014-2-28,Oil,393
+PADD 3,US,North America,2014-2-1,2014-2-28,Gas ,33
+PADD 3,US,North America,2014-2-1,2014-2-28,Total,426
+PADD 3,US,North America,2014-3-1,2014-3-31,Oil,438
+PADD 3,US,North America,2014-3-1,2014-3-31,Gas ,36
+PADD 3,US,North America,2014-3-1,2014-3-31,Total,474
+PADD 3,US,North America,2014-4-1,2014-4-30,Oil,447
+PADD 3,US,North America,2014-4-1,2014-4-30,Gas ,33
+PADD 3,US,North America,2014-4-1,2014-4-30,Total,480
+PADD 3,US,North America,2014-5-1,2014-5-31,Oil,445
+PADD 3,US,North America,2014-5-1,2014-5-31,Gas ,36
+PADD 3,US,North America,2014-5-1,2014-5-31,Total,481
+PADD 3,US,North America,2014-6-1,2014-6-30,Oil,431
+PADD 3,US,North America,2014-6-1,2014-6-30,Gas ,35
+PADD 3,US,North America,2014-6-1,2014-6-30,Total,466
+PADD 3,US,North America,2014-7-1,2014-7-31,Oil,473
+PADD 3,US,North America,2014-7-1,2014-7-31,Gas ,35
+PADD 3,US,North America,2014-7-1,2014-7-31,Total,508
+PADD 3,US,North America,2014-8-1,2014-8-31,Oil,452
+PADD 3,US,North America,2014-8-1,2014-8-31,Gas ,34
+PADD 3,US,North America,2014-8-1,2014-8-31,Total,486
+PADD 3,US,North America,2014-9-1,2014-9-30,Oil,405
+PADD 3,US,North America,2014-9-1,2014-9-30,Gas ,33
+PADD 3,US,North America,2014-9-1,2014-9-30,Total,438
+PADD 3,US,North America,2014-10-1,2014-10-31,Oil,422
+PADD 3,US,North America,2014-10-1,2014-10-31,Gas ,35
+PADD 3,US,North America,2014-10-1,2014-10-31,Total,457
+PADD 3,US,North America,2014-11-1,2014-11-30,Oil,415
+PADD 3,US,North America,2014-11-1,2014-11-30,Gas ,35
+PADD 3,US,North America,2014-11-1,2014-11-30,Total,450
+PADD 3,US,North America,2014-12-1,2014-12-31,Oil,426
+PADD 3,US,North America,2014-12-1,2014-12-31,Gas ,36
+PADD 3,US,North America,2014-12-1,2014-12-31,Total,462
+PADD 3,US,North America,2014,,Oil,"5,193"
+PADD 3,US,North America,2014,,Gas ,415
+PADD 3,US,North America,2014,,Total,"5,608"
+PADD 3,US,North America,2015-1-1,2015-1-31,Oil,410
+PADD 3,US,North America,2015-1-1,2015-1-31,Gas ,33
+PADD 3,US,North America,2015-1-1,2015-1-31,Total,443
+PADD 3,US,North America,2015-2-1,2015-2-28,Oil,366
+PADD 3,US,North America,2015-2-1,2015-2-28,Gas ,31
+PADD 3,US,North America,2015-2-1,2015-2-28,Total,397
+PADD 3,US,North America,2015-3-1,2015-3-31,Oil,404
+PADD 3,US,North America,2015-3-1,2015-3-31,Gas ,34
+PADD 3,US,North America,2015-3-1,2015-3-31,Total,438
+PADD 3,US,North America,2015-4-1,2015-4-30,Oil,393
+PADD 3,US,North America,2015-4-1,2015-4-30,Gas ,29
+PADD 3,US,North America,2015-4-1,2015-4-30,Total,422
+PADD 3,US,North America,2015-5-1,2015-5-31,Oil,410
+PADD 3,US,North America,2015-5-1,2015-5-31,Gas ,34
+PADD 3,US,North America,2015-5-1,2015-5-31,Total,444
+PADD 3,US,North America,2015-6-1,2015-6-30,Oil,431
+PADD 3,US,North America,2015-6-1,2015-6-30,Gas ,33
+PADD 3,US,North America,2015-6-1,2015-6-30,Total,464
+PADD 3,US,North America,2015-7-1,2015-7-31,Oil,437
+PADD 3,US,North America,2015-7-1,2015-7-31,Gas ,34
+PADD 3,US,North America,2015-7-1,2015-7-31,Total,471
+PADD 3,US,North America,2015-8-1,2015-8-31,Oil,431
+PADD 3,US,North America,2015-8-1,2015-8-31,Gas ,34
+PADD 3,US,North America,2015-8-1,2015-8-31,Total,465
+PADD 3,US,North America,2015-9-1,2015-9-30,Oil,412
+PADD 3,US,North America,2015-9-1,2015-9-30,Gas ,33
+PADD 3,US,North America,2015-9-1,2015-9-30,Total,445
+PADD 3,US,North America,2015-10-1,2015-10-31,Oil,414
+PADD 3,US,North America,2015-10-1,2015-10-31,Gas ,31
+PADD 3,US,North America,2015-10-1,2015-10-31,Total,445
+PADD 3,US,North America,2015-11-1,2015-11-30,Oil,448
+PADD 3,US,North America,2015-11-1,2015-11-30,Gas ,33
+PADD 3,US,North America,2015-11-1,2015-11-30,Total,481
+PADD 3,US,North America,2015-12-1,2015-12-31,Oil,488
+PADD 3,US,North America,2015-12-1,2015-12-31,Gas ,37
+PADD 3,US,North America,2015-12-1,2015-12-31,Total,525
+PADD 3,US,North America,2015,,Oil,"5,044"
+PADD 3,US,North America,2015,,Gas ,396
+PADD 3,US,North America,2015,,Total,"5,440"
+PADD 3,US,North America,2016-1-1,2016-1-31,Oil,420
+PADD 3,US,North America,2016-1-1,2016-1-31,Gas ,31
+PADD 3,US,North America,2016-1-1,2016-1-31,Total,451
+PADD 3,US,North America,2016-2-1,2016-2-29,Oil,386
+PADD 3,US,North America,2016-2-1,2016-2-29,Gas ,30
+PADD 3,US,North America,2016-2-1,2016-2-29,Total,416
+PADD 3,US,North America,2016-3-1,2016-3-31,Oil,446
+PADD 3,US,North America,2016-3-1,2016-3-31,Gas ,34
+PADD 3,US,North America,2016-3-1,2016-3-31,Total,480
+PADD 4 & 5,US,North America,2014-1-1,2014-1-31,Oil,113
+PADD 4 & 5,US,North America,2014-1-1,2014-1-31,Gas ,54
+PADD 4 & 5,US,North America,2014-1-1,2014-1-31,Total,167
+PADD 4 & 5,US,North America,2014-2-1,2014-2-28,Oil,93
+PADD 4 & 5,US,North America,2014-2-1,2014-2-28,Gas ,48
+PADD 4 & 5,US,North America,2014-2-1,2014-2-28,Total,141
+PADD 4 & 5,US,North America,2014-3-1,2014-3-31,Oil,109
+PADD 4 & 5,US,North America,2014-3-1,2014-3-31,Gas ,50
+PADD 4 & 5,US,North America,2014-3-1,2014-3-31,Total,159
+PADD 4 & 5,US,North America,2014-4-1,2014-4-30,Oil,112
+PADD 4 & 5,US,North America,2014-4-1,2014-4-30,Gas ,52
+PADD 4 & 5,US,North America,2014-4-1,2014-4-30,Total,164
+PADD 4 & 5,US,North America,2014-5-1,2014-5-31,Oil,108
+PADD 4 & 5,US,North America,2014-5-1,2014-5-31,Gas ,43
+PADD 4 & 5,US,North America,2014-5-1,2014-5-31,Total,151
+PADD 4 & 5,US,North America,2014-6-1,2014-6-30,Oil,106
+PADD 4 & 5,US,North America,2014-6-1,2014-6-30,Gas ,39
+PADD 4 & 5,US,North America,2014-6-1,2014-6-30,Total,145
+PADD 4 & 5,US,North America,2014-7-1,2014-7-31,Oil,116
+PADD 4 & 5,US,North America,2014-7-1,2014-7-31,Gas ,40
+PADD 4 & 5,US,North America,2014-7-1,2014-7-31,Total,156
+PADD 4 & 5,US,North America,2014-8-1,2014-8-31,Oil,120
+PADD 4 & 5,US,North America,2014-8-1,2014-8-31,Gas ,51
+PADD 4 & 5,US,North America,2014-8-1,2014-8-31,Total,171
+PADD 4 & 5,US,North America,2014-9-1,2014-9-30,Oil,114
+PADD 4 & 5,US,North America,2014-9-1,2014-9-30,Gas ,36
+PADD 4 & 5,US,North America,2014-9-1,2014-9-30,Total,150
+PADD 4 & 5,US,North America,2014-10-1,2014-10-31,Oil,108
+PADD 4 & 5,US,North America,2014-10-1,2014-10-31,Gas ,50
+PADD 4 & 5,US,North America,2014-10-1,2014-10-31,Total,158
+PADD 4 & 5,US,North America,2014-11-1,2014-11-30,Oil,115
+PADD 4 & 5,US,North America,2014-11-1,2014-11-30,Gas ,47
+PADD 4 & 5,US,North America,2014-11-1,2014-11-30,Total,162
+PADD 4 & 5,US,North America,2014-12-1,2014-12-31,Oil,126
+PADD 4 & 5,US,North America,2014-12-1,2014-12-31,Gas ,48
+PADD 4 & 5,US,North America,2014-12-1,2014-12-31,Total,174
+PADD 4 & 5,US,North America,2014,,Oil,"1,340"
+PADD 4 & 5,US,North America,2014,,Gas ,558
+PADD 4 & 5,US,North America,2014,,Total,"1,898"
+PADD 4 & 5,US,North America,2015-1-1,2015-1-31,Oil,112
+PADD 4 & 5,US,North America,2015-1-1,2015-1-31,Gas ,48
+PADD 4 & 5,US,North America,2015-1-1,2015-1-31,Total,160
+PADD 4 & 5,US,North America,2015-2-1,2015-2-28,Oil,103
+PADD 4 & 5,US,North America,2015-2-1,2015-2-28,Gas ,48
+PADD 4 & 5,US,North America,2015-2-1,2015-2-28,Total,151
+PADD 4 & 5,US,North America,2015-3-1,2015-3-31,Oil,120
+PADD 4 & 5,US,North America,2015-3-1,2015-3-31,Gas ,46
+PADD 4 & 5,US,North America,2015-3-1,2015-3-31,Total,166
+PADD 4 & 5,US,North America,2015-4-1,2015-4-30,Oil,108
+PADD 4 & 5,US,North America,2015-4-1,2015-4-30,Gas ,50
+PADD 4 & 5,US,North America,2015-4-1,2015-4-30,Total,158
+PADD 4 & 5,US,North America,2015-5-1,2015-5-31,Oil,103
+PADD 4 & 5,US,North America,2015-5-1,2015-5-31,Gas ,45
+PADD 4 & 5,US,North America,2015-5-1,2015-5-31,Total,148
+PADD 4 & 5,US,North America,2015-6-1,2015-6-30,Oil,109
+PADD 4 & 5,US,North America,2015-6-1,2015-6-30,Gas ,42
+PADD 4 & 5,US,North America,2015-6-1,2015-6-30,Total,151
+PADD 4 & 5,US,North America,2015-7-1,2015-7-31,Oil,114
+PADD 4 & 5,US,North America,2015-7-1,2015-7-31,Gas ,47
+PADD 4 & 5,US,North America,2015-7-1,2015-7-31,Total,161
+PADD 4 & 5,US,North America,2015-8-1,2015-8-31,Oil,101
+PADD 4 & 5,US,North America,2015-8-1,2015-8-31,Gas ,45
+PADD 4 & 5,US,North America,2015-8-1,2015-8-31,Total,146
+PADD 4 & 5,US,North America,2015-9-1,2015-9-30,Oil,104
+PADD 4 & 5,US,North America,2015-9-1,2015-9-30,Gas ,49
+PADD 4 & 5,US,North America,2015-9-1,2015-9-30,Total,153
+PADD 4 & 5,US,North America,2015-10-1,2015-10-31,Oil,101
+PADD 4 & 5,US,North America,2015-10-1,2015-10-31,Gas ,47
+PADD 4 & 5,US,North America,2015-10-1,2015-10-31,Total,148
+PADD 4 & 5,US,North America,2015-11-1,2015-11-30,Oil,104
+PADD 4 & 5,US,North America,2015-11-1,2015-11-30,Gas ,46
+PADD 4 & 5,US,North America,2015-11-1,2015-11-30,Total,150
+PADD 4 & 5,US,North America,2015-12-1,2015-12-31,Oil,112
+PADD 4 & 5,US,North America,2015-12-1,2015-12-31,Gas ,48
+PADD 4 & 5,US,North America,2015-12-1,2015-12-31,Total,160
+PADD 4 & 5,US,North America,2015,,Oil,"1,291"
+PADD 4 & 5,US,North America,2015,,Gas ,561
+PADD 4 & 5,US,North America,2015,,Total,"1,852"
+PADD 4 & 5,US,North America,2016-1-1,2016-1-31,Oil,111
+PADD 4 & 5,US,North America,2016-1-1,2016-1-31,Gas ,49
+PADD 4 & 5,US,North America,2016-1-1,2016-1-31,Total,160
+PADD 4 & 5,US,North America,2016-2-1,2016-2-29,Oil,96
+PADD 4 & 5,US,North America,2016-2-1,2016-2-29,Gas ,48
+PADD 4 & 5,US,North America,2016-2-1,2016-2-29,Total,144
+PADD 4 & 5,US,North America,2016-3-1,2016-3-31,Oil,107
+PADD 4 & 5,US,North America,2016-3-1,2016-3-31,Gas ,46
+PADD 4 & 5,US,North America,2016-3-1,2016-3-31,Total,153
+,US,North America,2014-1-1,2014-1-31,Oil,670
+,US,North America,2014-1-1,2014-1-31,Gas ,89
+,US,North America,2014-1-1,2014-1-31,Total,759
+,US,North America,2014-2-1,2014-2-28,Oil,591
+,US,North America,2014-2-1,2014-2-28,Gas ,82
+,US,North America,2014-2-1,2014-2-28,Total,673
+,US,North America,2014-3-1,2014-3-31,Oil,667
+,US,North America,2014-3-1,2014-3-31,Gas ,87
+,US,North America,2014-3-1,2014-3-31,Total,754
+,US,North America,2014-4-1,2014-4-30,Oil,676
+,US,North America,2014-4-1,2014-4-30,Gas ,87
+,US,North America,2014-4-1,2014-4-30,Total,763
+,US,North America,2014-5-1,2014-5-31,Oil,679
+,US,North America,2014-5-1,2014-5-31,Gas ,81
+,US,North America,2014-5-1,2014-5-31,Total,760
+,US,North America,2014-6-1,2014-6-30,Oil,671
+,US,North America,2014-6-1,2014-6-30,Gas ,76
+,US,North America,2014-6-1,2014-6-30,Total,747
+,US,North America,2014-7-1,2014-7-31,Oil,726
+,US,North America,2014-7-1,2014-7-31,Gas ,77
+,US,North America,2014-7-1,2014-7-31,Total,803
+,US,North America,2014-8-1,2014-8-31,Oil,703
+,US,North America,2014-8-1,2014-8-31,Gas ,87
+,US,North America,2014-8-1,2014-8-31,Total,790
+,US,North America,2014-9-1,2014-9-30,Oil,645
+,US,North America,2014-9-1,2014-9-30,Gas ,71
+,US,North America,2014-9-1,2014-9-30,Total,716
+,US,North America,2014-10-1,2014-10-31,Oil,649
+,US,North America,2014-10-1,2014-10-31,Gas ,87
+,US,North America,2014-10-1,2014-10-31,Total,736
+,US,North America,2014-11-1,2014-11-30,Oil,654
+,US,North America,2014-11-1,2014-11-30,Gas ,84
+,US,North America,2014-11-1,2014-11-30,Total,738
+,US,North America,2014-12-1,2014-12-31,Oil,697
+,US,North America,2014-12-1,2014-12-31,Gas ,86
+,US,North America,2014-12-1,2014-12-31,Total,783
+,US,North America,2014,,Oil,"8,028"
+,US,North America,2014,,Gas ,994
+,US,North America,2014,,Total,"9,022"
+,US,North America,2015-1-1,2015-1-31,Oil,647
+,US,North America,2015-1-1,2015-1-31,Gas ,83
+,US,North America,2015-1-1,2015-1-31,Total,730
+,US,North America,2015-2-1,2015-2-28,Oil,587
+,US,North America,2015-2-1,2015-2-28,Gas ,81
+,US,North America,2015-2-1,2015-2-28,Total,668
+,US,North America,2015-3-1,2015-3-31,Oil,642
+,US,North America,2015-3-1,2015-3-31,Gas ,82
+,US,North America,2015-3-1,2015-3-31,Total,724
+,US,North America,2015-4-1,2015-4-30,Oil,631
+,US,North America,2015-4-1,2015-4-30,Gas ,81
+,US,North America,2015-4-1,2015-4-30,Total,712
+,US,North America,2015-5-1,2015-5-31,Oil,646
+,US,North America,2015-5-1,2015-5-31,Gas ,81
+,US,North America,2015-5-1,2015-5-31,Total,727
+,US,North America,2015-6-1,2015-6-30,Oil,668
+,US,North America,2015-6-1,2015-6-30,Gas ,77
+,US,North America,2015-6-1,2015-6-30,Total,745
+,US,North America,2015-7-1,2015-7-31,Oil,686
+,US,North America,2015-7-1,2015-7-31,Gas ,83
+,US,North America,2015-7-1,2015-7-31,Total,769
+,US,North America,2015-8-1,2015-8-31,Oil,655
+,US,North America,2015-8-1,2015-8-31,Gas ,81
+,US,North America,2015-8-1,2015-8-31,Total,736
+,US,North America,2015-9-1,2015-9-30,Oil,635
+,US,North America,2015-9-1,2015-9-30,Gas ,84
+,US,North America,2015-9-1,2015-9-30,Total,719
+,US,North America,2015-10-1,2015-10-31,Oil,618
+,US,North America,2015-10-1,2015-10-31,Gas ,80
+,US,North America,2015-10-1,2015-10-31,Total,698
+,US,North America,2015-11-1,2015-11-30,Oil,681
+,US,North America,2015-11-1,2015-11-30,Gas ,81
+,US,North America,2015-11-1,2015-11-30,Total,762
+,US,North America,2015-12-1,2015-12-31,Oil,737
+,US,North America,2015-12-1,2015-12-31,Gas ,87
+,US,North America,2015-12-1,2015-12-31,Total,824
+,US,North America,2015,,Oil,"7,833"
+,US,North America,2015,,Gas ,981
+,US,North America,2015,,Total,"8,814"
+,US,North America,2016-1-1,2016-1-31,Oil,677
+,US,North America,2016-1-1,2016-1-31,Gas ,82
+,US,North America,2016-1-1,2016-1-31,Total,759
+,US,North America,2016-2-1,2016-2-29,Oil,614
+,US,North America,2016-2-1,2016-2-29,Gas ,80
+,US,North America,2016-2-1,2016-2-29,Total,694
+,US,North America,2016-3-1,2016-3-31,Oil,678
+,US,North America,2016-3-1,2016-3-31,Gas ,82
+,US,North America,2016-3-1,2016-3-31,Total,760
+,,,,,,
+,,,2014-1-1,2014-1-31,Oil sands,"189,052"
+,,,2014-1-1,2014-1-31,Gas ,"259,522"
+,,,2014-1-1,2014-1-31,Total,"448,574"
+,,,2014-2-1,2014-2-28,Oil sands,"167,853"
+,,,2014-2-1,2014-2-28,Gas ,"240,242"
+,,,2014-2-1,2014-2-28,Total,"408,095"
+,,,2014-3-1,2014-3-31,Oil sands,"181,044"
+,,,2014-3-1,2014-3-31,Gas ,"252,253"
+,,,2014-3-1,2014-3-31,Total,"433,297"
+,,,2014-4-1,2014-4-30,Oil sands,"162,210"
+,,,2014-4-1,2014-4-30,Gas ,"245,028"
+,,,2014-4-1,2014-4-30,Total,"407,238"
+,,,2014-5-1,2014-5-31,Oil sands,"148,570"
+,,,2014-5-1,2014-5-31,Gas ,"232,360"
+,,,2014-5-1,2014-5-31,Total,"380,930"
+,,,2014-6-1,2014-6-30,Oil sands,"157,333"
+,,,2014-6-1,2014-6-30,Gas ,"166,200"
+,,,2014-6-1,2014-6-30,Total,"323,533"
+,,,2014-7-1,2014-7-31,Oil sands,"171,412"
+,,,2014-7-1,2014-7-31,Gas ,"197,949"
+,,,2014-7-1,2014-7-31,Total,"369,361"
+,,,2014-8-1,2014-8-31,Oil sands,"158,497"
+,,,2014-8-1,2014-8-31,Gas ,"227,664"
+,,,2014-8-1,2014-8-31,Total,"386,161"
+,,,2014-9-1,2014-9-30,Oil sands,"171,687"
+,,,2014-9-1,2014-9-30,Gas ,"225,942"
+,,,2014-9-1,2014-9-30,Total,"397,629"
+,,,2014-10-1,2014-10-31,Oil sands,"187,682"
+,,,2014-10-1,2014-10-31,Gas ,"230,969"
+,,,2014-10-1,2014-10-31,Total,"418,651"
+,,,2014-11-1,2014-11-30,Oil sands,"174,238"
+,,,2014-11-1,2014-11-30,Gas ,"233,326"
+,,,2014-11-1,2014-11-30,Total,"407,564"
+,,,2014-12-1,2014-12-31,Oil sands,"184,979"
+,,,2014-12-1,2014-12-31,Gas ,"241,169"
+,,,2014-12-1,2014-12-31,Total,"426,148"
+,,,2014,,Oil sands,"2,054,557"
+,,,2014,,Gas ,"2,752,624"
+,,,2014,,Total,"4,807,181"
+,,,2015-1-1,2015-1-31,Oil sands,"198,620"
+,,,2015-1-1,2015-1-31,Gas ,"241,521"
+,,,2015-1-1,2015-1-31,Total,"440,141"
+,,,2015-2-1,2015-2-28,Oil sands,"177,357"
+,,,2015-2-1,2015-2-28,Gas ,"206,807"
+,,,2015-2-1,2015-2-28,Total,"384,164"
+,,,2015-3-1,2015-3-31,Oil sands,"191,149"
+,,,2015-3-1,2015-3-31,Gas ,"217,754"
+,,,2015-3-1,2015-3-31,Total,"408,903"
+,,,2015-4-1,2015-4-30,Oil sands,"139,986"
+,,,2015-4-1,2015-4-30,Gas ,"228,156"
+,,,2015-4-1,2015-4-30,Total,"368,142"
+,,,2015-5-1,2015-5-31,Oil sands,"121,220"
+,,,2015-5-1,2015-5-31,Gas ,"227,090"
+,,,2015-5-1,2015-5-31,Total,"348,310"
+,,,2015-6-1,2015-6-30,Oil sands,"154,448"
+,,,2015-6-1,2015-6-30,Gas ,"212,761"
+,,,2015-6-1,2015-6-30,Total,"367,209"
+,,,2015-7-1,2015-7-31,Oil sands,"197,699"
+,,,2015-7-1,2015-7-31,Gas ,"218,161"
+,,,2015-7-1,2015-7-31,Total,"415,860"
+,,,2015-8-1,2015-8-31,Oil sands,"209,024"
+,,,2015-8-1,2015-8-31,Gas ,"218,450"
+,,,2015-8-1,2015-8-31,Total,"427,474"
+,,,2015-9-1,2015-9-30,Oil sands,"144,877"
+,,,2015-9-1,2015-9-30,Gas ,"210,493"
+,,,2015-9-1,2015-9-30,Total,"355,370"
+,,,2015-10-1,2015-10-31,Oil sands,"165,241"
+,,,2015-10-1,2015-10-31,Gas ,"214,925"
+,,,2015-10-1,2015-10-31,Total,"380,166"
+,,,2015-11-1,2015-11-30,Oil sands,"187,812"
+,,,2015-11-1,2015-11-30,Gas ,"202,215"
+,,,2015-11-1,2015-11-30,Total,"390,027"
+,,,2015-12-1,2015-12-31,Oil sands,"185,977"
+,,,2015-12-1,2015-12-31,Gas ,"201,591"
+,,,2015-12-1,2015-12-31,Total,"387,568"
+,,,2015,,Oil sands,"2,073,410"
+,,,2015,,Gas ,"2,599,924"
+,,,2015,,Total,"4,673,334"
+,,,2016-1-1,2016-1-31,Oil sands,"189,476"
+,,,2016-1-1,2016-1-31,Gas ,"221,997"
+,,,2016-1-1,2016-1-31,Total,"411,473"
